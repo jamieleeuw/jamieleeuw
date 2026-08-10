@@ -1,109 +1,27 @@
-<div align="center">
+# 💫 About Me:
+I'm a third year Bachelor of Computing student at Belgium Campus ITversity with a strong interest in software engineering, backend development, machine learning, and data science.<br><br>I enjoy building practical projects that challenge me to understand how systems work beyond just writing code. I'm currently developing my backend skills with Node.js, Express.js, PostgreSQL, and REST APIs, while continuing to build my foundations in Python, machine learning, statistics, and data analysis.<br><br>I'm particularly interested in the intersection of software engineering and machine learning, with the long-term goal of building intelligent, scalable applications and becoming a well-rounded engineer.<br><br>I learn primarily by building, experimenting, debugging, and continuously taking on more challenging projects.
 
-# Hey, I'm Jamie 👋
 
-### Aspiring ML Engineer & Data Scientist
-*3rd Year Bachelor of Computing | Belgium Campus ITversity*
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/jamie_leeuw_05/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jamie-leeuw-a86819305/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrjtleeuw27@gmail.com) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jamieleeuw)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jamieleeuw&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jamieleeuw&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jamieleeuw&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jamieleeuw&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🧠 About Me
-
-```python
-jamie = {
-    "currently_learning": ["Machine Learning", "Deep Learning", "Statistics"],
-    "building":           ["Netflix EDA", "Titanic ML Model"],
-    "goal":               "Land a Data Science internship by July 2026",
-    "university":         "Belgium Campus ITversity",
-    "year":               "3rd Year Bachelor of Computing",
-    "motto":              "Build in public. Learn by doing."
-}
-```
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jamieleeuw&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=jamieleeuw&icon=4&color=12)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
-
-**Data Science & ML**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🚀 Projects
-
-| Project | Description | Tools | Status |
-|---------|-------------|-------|--------|
-| [Netflix EDA](https://github.com/jamieleeuw/netflix-eda) | Exploratory data analysis on 8800+ Netflix titles | Pandas, Seaborn, Matplotlib | ✅ Complete |
-| [Titanic ML](https://github.com/jamieleeuw/titanic-ml) | Survival prediction using classification algorithms | scikit-learn, XGBoost, Pandas | 🔄 In Progress |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Jamie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jamieleeuw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamieleeuw&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jamieleeuw&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🎓 Certificates
-
-| Certificate | Platform | Date |
-|-------------|----------|------|
-| Python | Kaggle | 2026 |
-| Pandas | Kaggle | 2026 |
-| Data Visualization | Kaggle | 2026 |
-
----
-
-## 📈 Currently
-
-- 🔭 Building a Titanic survival prediction ML model
-- 🌱 Learning scikit-learn, statistics & NumPy
-- 🎯 Goal: Data Science internship by July 2026
-- 💬 Ask me about Python, Pandas, or data visualization
-
----
-
-<div align="center">
-
-*"The best way to learn data science is to do data science."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=jamieleeuw&color=blueviolet&style=for-the-badge)
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
