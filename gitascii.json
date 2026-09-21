@@ -2,19 +2,39 @@
   "username": "jamieleeuw",
   "widgets": [
     {
-      "widgetId": "asciiprofile-portrait",
-      "name": "Asciiprofile-portrait Widget",
+      "widgetId": "header",
+      "name": "Header Widget",
       "position": {
-        "x": 48,
-        "y": 40
+        "x": 0,
+        "y": 0
       },
       "size": {
-        "width": 288,
-        "height": 312
+        "width": 800,
+        "height": 90
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1790032013787_0"
+    },
+    {
+      "widgetId": "ascii-art",
+      "name": "Ascii-art Widget",
+      "position": {
+        "x": 0,
+        "y": 106
+      },
+      "size": {
+        "width": 280,
+        "height": 280
       },
       "config": {
-        "accentColor": "#ffa657",
+        "detail": "medium",
         "cols": 150,
+        "charset": "dense",
+        "edgeEnhance": true,
+        "lockAspectRatio": true,
         "rows": 75,
         "asciiText": [
           "**/****c*****cc**************//****cc*c**c*c*c*c*c*c*ccccrrrr!!!!!!!!!!r!!r!!!!!++++<<>>;;;=^^^__::'':_,^><!rrrrrrrrrrrrrrrrrrrrr!rrrcrcrcrcrcrrrrrrrr",
@@ -11498,63 +11518,106 @@
       },
       "locked": false,
       "visible": true,
-      "zIndex": 1,
-      "instanceId": "widget_1790031611809_0"
-    },
-    {
-      "widgetId": "asciiprofile-info",
-      "name": "Asciiprofile-info Widget",
-      "position": {
-        "x": 330,
-        "y": 42
-      },
-      "size": {
-        "width": 456,
-        "height": 312
-      },
-      "config": {
-        "accentColor": "#ffa657"
-      },
-      "locked": false,
-      "visible": true,
       "zIndex": 2,
-      "instanceId": "widget_1790031611809_1"
+      "instanceId": "widget_1790032013788_1"
     },
     {
-      "widgetId": "asciiprofile-heatmap",
-      "name": "Asciiprofile-heatmap Widget",
+      "widgetId": "terminal-info",
+      "name": "Terminal-info Widget",
       "position": {
-        "x": 48,
-        "y": 368
+        "x": 296,
+        "y": 106
       },
       "size": {
-        "width": 704,
-        "height": 240
+        "width": 504,
+        "height": 280
       },
-      "config": {
-        "accentColor": "#ffa657"
-      },
+      "config": {},
       "locked": false,
       "visible": true,
       "zIndex": 3,
-      "instanceId": "widget_1790031611809_2"
+      "instanceId": "widget_1790032013788_2"
+    },
+    {
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": {
+        "x": 0,
+        "y": 402
+      },
+      "size": {
+        "width": 536,
+        "height": 160
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 4,
+      "instanceId": "widget_1790032013788_3"
+    },
+    {
+      "widgetId": "tech-stack",
+      "name": "Tech-stack Widget",
+      "position": {
+        "x": 544,
+        "y": 402
+      },
+      "size": {
+        "width": 240,
+        "height": 160
+      },
+      "config": {
+        "selectedTechs": [
+          "js",
+          "ts",
+          "html",
+          "css",
+          "py",
+          "rust",
+          "go",
+          "cpp"
+        ],
+        "theme": "dark",
+        "perLine": 4
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6,
+      "instanceId": "widget_1790032013788_5"
+    },
+    {
+      "instanceId": "widget_1790032058260",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
+      "position": {
+        "x": 0,
+        "y": 578
+      },
+      "size": {
+        "width": 800,
+        "height": 250
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#0d1117",
-    "textColor": "#e6edf3",
-    "accentColor": "#ffa657",
-    "borderColor": "#30363d",
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "ascii_native"
+    "templateStyle": "native"
   },
-  "templateId": "ascii_native",
+  "templateId": "native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790031637592_7no42",
-    "updatedAt": "2026-09-21T23:00:40.637Z"
+    "revision": "rev_1790032066935_55cuf",
+    "updatedAt": "2026-09-21T23:07:49.826Z"
   }
 }
